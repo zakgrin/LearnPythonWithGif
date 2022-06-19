@@ -1,0 +1,11 @@
+# Python Manual: 12. Virtual Environments and Packages
+
+# 1. Create venv:
+python -m venv .venv
+
+# 2. Activate venv:
+# On Windows, run:
+.venv\Scripts\activate.bat
+
+# On Unix or MacOS, run:
+source .venv/bin/activate
